@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blackeyedabyss.
+- 👋 Hi, I’m @blackeyedabyss, aka Yash Gadwal.
 - 👀 I’m interested in learning to solve problems by coding them out.
 - 🌱 I’m currently learning JavaScript, and the entire JavaScript ecosystem.
 - 💞️ I’m looking to collaborate on Open source projects!
