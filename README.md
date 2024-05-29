@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Open source projects!
 - 📫 How to reach me? You can reach out to me on my linkedin, which is: https://www.linkedin.com/in/yashgadwal7/
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackeyedabyss&show_icons=true&theme=gruvbox)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackeyedabyss&layout=compact&theme=gruvbox)
 
 
